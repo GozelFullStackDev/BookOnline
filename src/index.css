@@ -68,4 +68,8 @@ p, h1, h2, button{
   p, h1, h2, button {
     font-size: 16px;
   }
+  
+   img {
+    width: 50%;
+  }
 }
